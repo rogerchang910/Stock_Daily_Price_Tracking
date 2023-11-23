@@ -6,4 +6,3 @@ This project aims to track desired stocks' prices and automatically store the da
 ## Files
 - stock.py: the main Python script of this project.
 - requirements.txt: the documents that contain the required packages to launch the code.
-- stock-query-key.json: the credential key of the Google API to store the daily price.
